@@ -5,7 +5,7 @@ let config = {
     
     NetEaseMusicId: "",
     QQMusicId: "",
-    Footer: "Copyright © 2023 阿音_Official 解释权归本直播间所有。",
+    Footer: "Copyright © 2023 阿音 解释权归本直播间所有。",
 
     Cursor: true,
 
