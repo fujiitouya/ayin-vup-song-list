@@ -14,7 +14,7 @@ let config = {
 
     BannerTitle: "雪域provealms所属",
     BannerContent: [`
-    ♡点歌示范→发送弹幕点歌+歌名；
+♡点歌示范→发送弹幕点歌+歌名；
 ♡曲风偏国风and流行；
 ♡粉丝团成员每日可点一首歌；
 ♡新舰长可置顶一首非SC的歌；
